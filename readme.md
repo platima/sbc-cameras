@@ -14,20 +14,20 @@
 | Makerfabs Pi Camera 1.3         | 15p1 x2   | 15-15 150mm | OV5647      | 5MP        |           | [5mp-sbc-camera](https://shop.plati.ma/products/5mp-sbc-camera) |
 
 ## SBCs
-| SBC             | Pins   | Lanes | URL |
-|-----------------|--------|-------|-----|
-| Radxa Rock 5    | 31p0.3 | 4     | |
-| Orange Pi 5B    | 30p0.4 | 3x4   | |
-| LicheeRV Nano   | 22     | 1x4   |
-| Radxa Zero 3W/E | 22p0.5 | 4     | |
-| Rasp Pi Zero 2W | 22p0.5 | 2     | |
-| Rasp Pi 5       | 22p0.5 | 2x4   | |
-| Luckfox Pico    | 20     | 2     | [luckfox-pico](https://shop.plati.ma/search?q=pico) |
-| Milk-V Duo      | 16     | 2     | [milkv-sbcs](https://shop.plati.ma/collections/all?filter.p.vendor=Milk-V) |
-| Milk-V Duo S    | 15+15  | 2+2   | [milk-v-duo-s](https://shop.plati.ma/products/milk-v-duo-s) |
-| Radxa Rock 4SE  | 15p1   | 2     | |
-| Rasp Pi 4B      | 15p1   | 2     | |
-| Radxa Rock 4C+  | 15p0.3 | 2     | |
+| SBC             | Pins   | CSI Lanes | URL |
+|-----------------|--------|-----------|-----|
+| Radxa Rock 5    | 31p0.3 | 4         | |
+| Orange Pi 5B    | 30p0.4 | 3x 4      | |
+| LicheeRV Nano   | 22     | 1x 4      |
+| Radxa Zero 3W/E | 22p0.5 | 4         | |
+| Rasp Pi Zero 2W | 22p0.5 | 2         | |
+| Rasp Pi 5       | 22p0.5 | 2x 4      | |
+| Luckfox Pico    | 20     | 2         | [luckfox-pico](https://shop.plati.ma/search?q=pico) |
+| Milk-V Duo      | 16     | 2         | [milkv-sbcs](https://shop.plati.ma/collections/all?filter.p.vendor=Milk-V) |
+| Milk-V Duo S    | 15+15  | 2x 2      | [milk-v-duo-s](https://shop.plati.ma/products/milk-v-duo-s) |
+| Radxa Rock 4SE  | 15p1   | 2         | |
+| Rasp Pi 4B      | 15p1   | 2         | |
+| Radxa Rock 4C+  | 15p0.3 | 2         | |
 
 ## FPC Cables
 | Cable           | Camera Pins | SBC Pins | URL |
