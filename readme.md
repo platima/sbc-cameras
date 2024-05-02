@@ -1,17 +1,17 @@
 ## Cameras
-| Camera                            | Pins    | Cable | URL |
-|-----------------------------------|---------|-------|-----|
-| Radxa Camera 4K (IMX415)          | 31p0.3  | 31-31 | |
-| GC4653 for LicheeRV               | 22      |       | https://shop.plati.ma/products/gc4653-camera-module-for-licheerv-nano |
-| Pi Global Shutter Camera (IMX296) | 22p0.5? |       | |
-| Arducam 64MP                      | 22p0.5  | 22-15 | |
-| Waveshare SC3336 3MP Camera (B)   | 20      | 20-20 | https://shop.plati.ma/products/luckfox-sc3336-3mp-camera-b |
-| Milk-V Duo CAM (GC2083)           | 16      | 16-16 | https://shop.plati.ma/products/milk-v-cam-gc2083-camera-module-for-duo-hw-v1-1 |
-| Radxa Camera 8M 219               | 15p1    | 15-22 | |
-| Pi Camera Board v1.3 (OV5647)     | 15p1    | 15-15 | |
-| Pi Camera Module 3 (IMX708)       | 15p1    | 15-15 | |
-| Pi Camera Module 2 (IMX219)       | 15p1    |       | |
-| Makerfabs Pi Camera 1.3           | 15      | 15-15 | https://shop.plati.ma/products/5mp-sbc-camera-designed-for-raspberry-pi |
+| Camera                              | Pins     | Cable | URL |
+|-------------------------------------|----------|-------|-----|
+| Radxa Camera 4K (IMX415)            | 31p0.3   | 31-31 | |
+| GC4653 for LicheeRV                 | 22       |       | https://shop.plati.ma/products/gc4653-camera-module-for-licheerv-nano |
+| Pi Global Shutter Camera (IMX296)   | 22p0.5?  |       | |
+| Arducam 64MP                        | 22p0.5   | 22-15 | |
+| Waveshare SC3336 3MP Camera (B)     | 20       | 20-20 | https://shop.plati.ma/products/luckfox-sc3336-3mp-camera-b |
+| Milk-V Duo CAM (GC2083)             | 16       | 16-16 | https://shop.plati.ma/products/milk-v-cam-gc2083-camera-module-for-duo-hw-v1-1 |
+| Radxa Camera 8M 219                 | 15p1     | 15-22 | |
+| Pi Camera Board v1.3 (OV5647)       | 15p1     | 15-15 | |
+| Pi Camera Module 3 (IMX708)         | 15p1     | 15-15 | |
+| Pi Camera Module 2 (IMX219)         | 15p1     |       | |
+| Makerfabs Pi Camera 1.3             | 15       | 15-15 | https://shop.plati.ma/products/5mp-sbc-camera-designed-for-raspberry-pi |
 
 ## SBCs
 | SBC             | Pins   | Lanes | URL |
