@@ -23,7 +23,7 @@
 | Rasp Pi Zero 2W | 22p0.5 | 2         | |
 | Rasp Pi 5       | 22p0.5 | 2x 4      | |
 | Luckfox Pico    | 20     | 2         | [luckfox-pico](https://shop.plati.ma/search?q=pico) |
-| Milk-V Duo      | 16     | 2         | [milkv-sbcs](https://shop.plati.ma/collections/all?filter.p.vendor=Milk-V) |
+| Milk-V Duo      | 16p1   | 2         | [milkv-sbcs](https://shop.plati.ma/collections/all?filter.p.vendor=Milk-V) |
 | Milk-V Duo S    | 15+15  | 2x 2      | [milk-v-duo-s](https://shop.plati.ma/products/milk-v-duo-s) |
 | Radxa Rock 4SE  | 15p1   | 2         | |
 | Rasp Pi 4B      | 15p1   | 2         | |
