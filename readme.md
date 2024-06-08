@@ -7,7 +7,7 @@
 | Arducam 64MP                    | 22p0.5  | 22-15 150mm    | OV64A40     | 64MP   | 84°       | |
 | SC3336 3MP Camera (B)           | 20p0.5  | 20-20 150mm    | SC3336      | 3MP    | 98.3°     | [luckfox-sc3336-3mp-camera-b](https://shop.plati.ma/products/luckfox-sc3336-3mp-camera-b) |
 | Milk-V CAM-GC2083               | 16p0.5  | 16-16 80mm x2  | GC2083      | 2MP    |           | [cam-gc2083-for-milk-v-duo](https://shop.plati.ma/products/cam-gc2083-for-milk-v-duo) |
-| Radxa Camera 8M 219             | 15p1    | 15-22 150mm    | IMX219      | 8MP    |           | |
+| Radxa Camera 8M 219             | 15p1    | 15-22 150mm    | IMX219      | 8MP    |           | [radxa-cam-219](https://shop.plati.ma/products/radxa-camera-219-8mp-meant-for-zero-3e-3w)|
 | Pi Camera Module 3              | 15p1    | 15-15 200mm    | IMX708      | 12MP   | 75 / 120° | |
 | Pi Camera Module 2              | 15p1    | 15-15 200mm    | IMX219      | 8MP    | 74.2°     | |
 | Pi Camera Module                | 15p1    | 15-15          | OV5647      | 5MP    | 64.4°     | |
@@ -24,7 +24,7 @@
 | Rasp Pi 5       | 22p0.5 | 2x 4      | |
 | Luckfox Pico    | 20     | 2         | [luckfox-pico](https://shop.plati.ma/search?q=pico) |
 | Milk-V Duo      | 16p1   | 2         | [milkv-sbcs](https://shop.plati.ma/collections/all?filter.p.vendor=Milk-V) |
-| Milk-V Duo S    | 15p1+16p0.5  | 2x 2      | [milk-v-duo-s](https://shop.plati.ma/products/milk-v-duo-s) |
+| Milk-V Duo S    | 15p1+16p0.5  | 2x 2| [milk-v-duo-s](https://shop.plati.ma/products/milk-v-duo-s) |
 | Radxa Rock 4SE  | 15p1   | 2         | |
 | Rasp Pi 4B      | 15p1   | 2         | |
 | Radxa Rock 4C+  | 15p0.3 | 2         | |
