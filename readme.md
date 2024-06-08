@@ -35,3 +35,4 @@
 | Radxa 4C+       | 15p1        | 15p0.3   | |
 | Radxa Zero 3    | 15p1        | 22p0.5   | |
 | Pi Camera Cable | 15p1        | 22p0.5   | [15-pin-to-22-pin-fpc](https://shop.plati.ma/products/15-pin-to-22-pin-fpc) |
+| Duo Adapter FPC | 15p1        | 16p0.5   | [16p0.5-to-15p1-fpc]()https://shop.plati.ma/products/16p-0-5mm-to-15p-1mm-fpc-ribbon-cable-for-sbcs-and-cameras-150mm) |
