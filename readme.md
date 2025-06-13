@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=platima.cameradata" height="20" />
+
 ## Cameras
 | Camera                          | Pins    | Cable          | Sensor      | Pixels | FOV D     | URL |
 |---------------------------------|---------|----------------|-------------|--------|-----------|-----|
